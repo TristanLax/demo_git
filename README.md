@@ -6,4 +6,4 @@ Ceci est un premier test, tout va bien !
 
 
 Second test en cours, rien à signaler !
-Modifications depuis Githut tout comme sur le PC !
+Modifications depuis Github tout comme sur le PC !
